@@ -1,3 +1,4 @@
+<img width="1440" height="810" alt="Fatigue and Injuries tracker" src="https://github.com/user-attachments/assets/456d6243-95e9-4862-9212-4bb554a4685e" />
 # ⚡ Sports Analytics Dashboard — Fatigue & Injury Tracker
 
 A real-time, AI-powered sports analytics dashboard that tracks player fatigue levels, injury risk, stamina, and performance stats. Built with React and Vite, featuring a premium dark UI with neon accents, animated charts, and intelligent recommendations.
